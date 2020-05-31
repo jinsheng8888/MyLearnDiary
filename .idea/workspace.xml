@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+git<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37b6e12a-6c34-4878-a505-2587fc88540e" name="Default Changelist" comment="" />
+    <list default="true" id="37b6e12a-6c34-4878-a505-2587fc88540e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/jin/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/jin/src/Test.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +53,11 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590889086119</updated>
-      <workItem from="1590889087543" duration="883000" />
+      <workItem from="1590889087543" duration="1700000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1590889258799</created>
