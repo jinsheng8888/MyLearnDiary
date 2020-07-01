@@ -1,0 +1,42 @@
+#### 1. 常用命令
+
+#####   ls ,列出所有目录列表
+
+![image-20200701093625106](C:\Users\administered\AppData\Roaming\Typora\typora-user-images\image-20200701093625106.png)
+
+##### ll, 列出所有目录列表详情
+
+![image-20200701093729440](C:\Users\administered\AppData\Roaming\Typora\typora-user-images\image-20200701093729440.png)
+
+##### pwd, 获取当前完整路径
+
+![image-20200701094552325](C:\Users\administered\AppData\Roaming\Typora\typora-user-images\image-20200701094552325.png)
+
+##### mkdir,  创建文件夹
+
+![image-20200701095116787](C:\Users\administered\AppData\Roaming\Typora\typora-user-images\image-20200701095116787.png)
+
+##### touch, 创建文件
+
+![image-20200701095444616](C:\Users\administered\AppData\Roaming\Typora\typora-user-images\image-20200701095444616.png)
+
+##### rm, 刪除文件和文件夾
+
+##### cp,
+
+##### mv,
+
+##### kill,
+
+##### cat,
+
+##### ps,
+
+##### grep,
+
+##### which
+
+##### whereis
+
+
+
