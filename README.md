@@ -97,7 +97,7 @@
 - 数据结构
 - 常见算法
 
-#### [java基础]([https://github.com/jinsheng512/MyLearnDiary/blob/master/java%E5%9F%BA%E7%A1%80.md](https://github.com/jinsheng512/MyLearnDiary/blob/master/java基础.md))
+#### [java基础](https://github.com/jinsheng512/MyLearnDiary/blob/master/java基础.md)
 
 ------
 
