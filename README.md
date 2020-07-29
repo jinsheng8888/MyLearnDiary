@@ -61,14 +61,14 @@
 
 ------
 
-- idea
+- idea使用手册
 - eclipse
 - postman
 - navicat
 - xshell
-- Beyond Compare 3
-- everything
-- charles
+- Beyond Compare 3 文件对比
+- everything  搜索好帮手
+- charles 抓包工具
 
 #### 计算机系统原理
 
@@ -77,10 +77,9 @@
 
 
 - windows
-
 - [Linux](https://github.com/jinsheng512/MyLearnDiary/blob/master/Linux.md)
 
-#### 计算机网络
+#### [计算机网络](https://github.com/jinsheng512/MyLearnDiary/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
 
 ------
 
@@ -122,6 +121,7 @@
 - 反射
 - 序列化和反序列化
 - 注解
+- JVM
 
 #### Spring
 
