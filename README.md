@@ -125,9 +125,9 @@
 - 反射
 - 序列化和反序列化
 - 注解
-- JVM
+- [JVM](https://github.com/jinsheng512/MyLearnDiary/blob/master/JVM.md)
 
-#### Spring
+#### [Spring](https://github.com/jinsheng512/MyLearnDiary/blob/master/JVM.md)
 
 ------
 
