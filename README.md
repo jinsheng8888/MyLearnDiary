@@ -84,10 +84,14 @@
 ------
 
 - 网络分层模型
-- http
-- https
-- TCP和UDP
+- http1.0，http1.1 和http2.0
+- http请求方法
+- http请求和响应格式
 - 状态码
+- TCP和UDP的区别
+- TCP三次握手
+- TCP四次挥手
+- TCP如何保证可靠
 
 #### 数据结构和算法
 
@@ -142,7 +146,7 @@
 
 ------
 
-- 概念
+- 分布式和微服务
 
 - Redis
 - ElastSerach
@@ -190,7 +194,28 @@
 
 ------
 
+#### 源码阅读
 
+------
+
+- Spring Boot
+- Spring
+- Mybatis
+- HashMap
+- cuncrenthashmap
+- CountDownLatch
+- CyclicBarrier
+- LinkedBlockingQueue
+- Semaphore
+- CopyOnWriteArrayList
+- BlockingQueue
+- ThreadPoolExecutor
+- SynchronousQueue
+- Eureka
+- Feigin
+- Ribbon
+- Hystrix
+- GateWay
 
 #### 前端
 
