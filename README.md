@@ -39,7 +39,7 @@
 
 - windows
 
-- Linux
+- [Linux](https://github.com/jinsheng512/MyLearnDiary/blob/master/Linux.md)
 
 #### 计算机网络
 
